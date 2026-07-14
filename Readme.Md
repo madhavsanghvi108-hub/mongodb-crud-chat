@@ -131,7 +131,7 @@ http://localhost:8080
 
 ## Author
 
-**Madhav Sahu**
+**Madhav Sanghvi**
 
 GitHub: https://github.com/<your-github-username>
 
