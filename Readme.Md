@@ -29,7 +29,7 @@ A simple CRUD-based chat application developed using **Node.js**, **Express.js**
 ---
 ### Home Page
 
-![Home Page](./assets/home-page.png)
+![Home Page](./assets/home.png)
 
 The homepage displays all chat messages stored in MongoDB. Users can quickly view conversations and perform CRUD operations using the Edit and Delete buttons.
 
